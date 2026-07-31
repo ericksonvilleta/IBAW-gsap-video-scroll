@@ -22,6 +22,7 @@ A lightweight WordPress plugin that leverages GSAP and ScrollTrigger to seamless
 
 ## Video
 Play the video to see it in action
+
 https://github.com/user-attachments/assets/07e2e466-00ae-4edf-863e-d3a31319e8b4
 
 ## Usage
